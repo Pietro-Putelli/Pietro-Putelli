@@ -1,6 +1,6 @@
 # 👋 I'm Pietro Putelli
 
-I’m Pietro Putelli, I’m a creative and young person, who loves to share and discuss several topics with other people, share and always learn new things.
+I’m Pietro Putelli, I’m a creative and young person, who loves to share and discuss several topics with others and always learn new things.
 
 Currently I'm looking for a job opportunity as fullstack junior developer since I'd really like to work in a team to improve my skills and start my professional career.
 
