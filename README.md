@@ -33,7 +33,7 @@ My previous `Swift` and `PHP` first projects (back to 2018/20).
 
 ### I'm currently learning
 
-- ⛓️ - **Blockchain theory and Solidity**
+- ⛓️ - **NodeJS and Solidity**
 - 🇪🇸 - **Español**
 
 
