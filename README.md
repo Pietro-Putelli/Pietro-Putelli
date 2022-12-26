@@ -33,7 +33,7 @@ My previous `Swift` and `PHP` first projects (back to 2018/20).
 
 ### I'm currently learning
 
-- ⛓️ - **NodeJS and Solidity**
+- ⛓️ - **Golang**
 - 🇪🇸 - **Español**
 
 
