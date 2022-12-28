@@ -12,7 +12,6 @@ For the past year I've been working on a personal project, named **Real** that h
 Real is a mobile app, developed using React Native, that allow users to meet people, found venues and events nearby.
 The Real backend is written in Python, using the Django framework.
 
-- **[Real Frontend](https://github.com/Pietro-Putelli/real-frontend)**
 - **[Real Backend](https://github.com/Pietro-Putelli/real-backend)**
 
 ### ⚙️ My works
