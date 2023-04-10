@@ -33,7 +33,7 @@ My previous `Swift` and `PHP` first projects (back to 2018/20).
 
 ### I'm currently go into detail
 
-- ⛓️ - **TypeScript, Docker and Server Architecture **
+- ⛓️ - **TypeScript, Docker and Server Architecture**
 - 🇪🇸 - **Español**
 
 
