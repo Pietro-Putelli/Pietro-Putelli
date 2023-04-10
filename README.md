@@ -34,7 +34,7 @@ My previous `Swift` and `PHP` first projects (back to 2018/20).
 ### I'm currently go into detail
 
 - ⛓️ - **TypeScript, Docker and Server Architecture **
-- 🇫🇷 - **French**
+- 🇪🇸 - **Español**
 
 
 [✉️ Let's get in touch!](mailto:pietro.putelli@gmail.com)
