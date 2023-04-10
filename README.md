@@ -14,7 +14,7 @@ Weav is a mobile application, available both on iOS and Android, that allows use
 - **[Weav Backend](https://github.com/Pietro-Putelli/weav-backend)**
 
 On the other hand I spent lots of time on developing the conceptual model behind the product and now I’m talking with businesses in my city and try to launch the app.
-Check out the website: **weav.it**
+Check out the website: **[weav.it](https://weav.it)**
 
 ### ⚙️ My works
 
