@@ -7,9 +7,12 @@ Checkout out my portfolio: [pietroputelli.com](https://pietroputelli.com).
 
 Here's the source code of my main projects:
 
-1. [Hyle Mobile App](https://github.com/Pietro-Putelli/hyle-mobile-app) developed using React Native.
-2. [Hyle Backend](https://github.com/Pietro-Putelli/hyle-backend) developed using Golang and deployed on AWS.
-3. [Weav Mobile App](https://github.com/Pietro-Putelli/weav-frontend) developed using React Native.
-4. [Weav Backend](https://github.com/Pietro-Putelli/weav-backend) developed using Django and deployed on AWS.
+#### Hyle
+[Mobile App](https://github.com/Pietro-Putelli/hyle-mobile-app) developed using React Native.
+[Backend](https://github.com/Pietro-Putelli/hyle-backend) developed using Golang and deployed on AWS.
+
+#### Weav
+[Weav Mobile App](https://github.com/Pietro-Putelli/weav-frontend) developed using React Native.
+[Weav Backend](https://github.com/Pietro-Putelli/weav-backend) developed using Django and deployed on AWS.
    
 [✉️ Feel free to reach out to me anytime!](mailto:pietro.putelli@gmail.com)
