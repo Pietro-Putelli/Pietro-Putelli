@@ -5,7 +5,7 @@ I engage in discussions about new ideas with people and transform them into tang
 
 Checkout out my portfolio: [pietroputelli.com](https://pietroputelli.com).
 
-Here's the source code of my main projects:
+Here's my main projects:
 
 ### Hyle
 • [Mobile App](https://github.com/Pietro-Putelli/hyle-mobile-app) developed using React Native.
