@@ -15,5 +15,5 @@ Checkout out my portfolio: [pietroputelli.com](https://pietroputelli.com).
 - [Weav Mobile App](https://github.com/Pietro-Putelli/weav-frontend) developed using React Native.
 - [Weav Backend](https://github.com/Pietro-Putelli/weav-backend) developed using Django and deployed on AWS.
    
-\n
+
 [✉️ Feel free to reach out to me anytime!](mailto:pietro.putelli@gmail.com)
